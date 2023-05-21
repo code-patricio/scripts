@@ -18,4 +18,4 @@ less think
 
 inside my init.lua
 
->> bad english btw
+*bad english btw*
