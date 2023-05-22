@@ -1,5 +1,7 @@
 # Personal scripts
 
+> sorry for awful english <3
+
 Im learning the basics of programming
 
 * C - my first pl 
@@ -17,11 +19,4 @@ less think. Using the vim.cmd "read" and some remaps.
 ## abbrev
 
 In file "abbrev.lua", I created differents abbrevs for different filetypes and 
-different modes. Example:
-
-* for markdown:
-    '''
-    mddate ----> 230522-1241
-    '''
-
-**bad english btw
+different modes.
