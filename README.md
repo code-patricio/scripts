@@ -4,17 +4,17 @@
 
 Im learning the basics of programming
 
-* C - my first pl 
+* C - my first 
 * Bash - i want to use more the cli
 * Lua - for Neovim
 
 ## templates for snippets
 
 I dont want to use a plugin if i can do the same with equal or
-less think. Using the vim.cmd "read" and some remaps.
+less think. Using the ":read" and some remaps.
 
-1. html templates
-2. latex templates
+1. [ ] html templates
+2. [ ] latex templates
 
 ## abbrev
 
