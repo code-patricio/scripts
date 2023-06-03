@@ -1,10 +1,8 @@
 # Personal scripts
 
-> sorry for awful english <3
-
 Im learning the basics of programming
 
-* C - my first 
+* C - first language
 * Bash - i want to use more the cli
 * Lua - for Neovim
 
@@ -13,8 +11,8 @@ Im learning the basics of programming
 I dont want to use a plugin if i can do the same with equal or
 less think. Using the ":read" and some remaps.
 
-1. [ ] html templates
-2. [ ] latex templates
+1. [ ] latex templates
+2. [ ] html templates 
 
 ## abbrev
 
