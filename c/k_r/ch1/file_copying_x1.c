@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-int main() {
-    int bolean = getchar() != EOF;
-    printf("%d", bolean);
+main() {
+    int bolean = getchar() == EOF;
+    printf("%d\n", bolean);
     int c;
-    while ((c = getchar()) != EOF)
-        putchar(c);
+    while ((c = getchar()) != EOF) {
+        putchar(c); 
+    }
 }
