@@ -7,5 +7,5 @@ int main() {
 
     while (getchar() != EOF)
         ++nc;
-    printf("%ld\n", nc);
+    printf("< %ld charecters counting\n", nc);
 }
