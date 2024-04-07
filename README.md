@@ -1,3 +1,3 @@
 # Personal scripts
 
-Im learning the basics of programming with "CS50"
+scripts your mom!
