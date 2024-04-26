@@ -1,5 +1,3 @@
 # Personal scripts
 
-scripts your mom!
-
-
+scripts deez nuts!
